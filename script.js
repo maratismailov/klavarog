@@ -1,3 +1,4 @@
+test7
 var keyboards = {
     'eng': {
         'qwerty': ['`<sup><sup>~</sup></sup>', '1<sup>!</sup>', '2<sup>@</sup>', '3<sup>#</sup>', '4<sup>$</sup>', '5<sup>%</sup>', '6<sup>^</sup>', '7<sup>&amp;</sup>', '8<sup>*</sup>', '9<sup>(</sup>', '0<sup>)</sup>', '-<sup><sup>_</sup></sup>', '=<sup>+</sup>',
